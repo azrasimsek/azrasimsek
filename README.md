@@ -35,7 +35,7 @@
 ### 📫 Bana Ulaşın
 
 - ✉️ Mail: azrasmsk33@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/azrasimsek]([https://linkedin.com/in/azrasimsek](https://www.linkedin.com/in/azra-%C5%9Fim%C5%9Fek/))  
+- 💼 LinkedIn: [linkedin.com/in/azrasimsek](https://linkedin.com/in/azra-şimşek)  
 - 💻 GitHub: [github.com/azrasimsek](https://github.com/azrasimsek)
 
 ---
