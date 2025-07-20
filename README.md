@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, ben Azra Şimşek!</h1>
 
-<!--
-**azrasimsek/azrasimsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Bilgisayar Mühendisi • 👩‍💻 Web Geliştirici • 🌱 Öğrenmeyi Seven
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Hakkımda
+
+- 🎓 **İskenderun Teknik Üniversitesi - Bilgisayar Mühendisliği** mezunuyum.  
+- 🌟 Web projeleri geliştiriyorum. Dinamik, kullanıcı dostu ve veri tabanı destekli uygulamalar yapmayı seviyorum.  
+- 🔒 Güvenli, modüler ve sade kod yazma prensibiyle çalışıyorum.
+
+---
+
+### 🚀 Kullandığım Teknolojiler
+
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Backend:** Node.js, Express.js, EJS , C# , ASP .Net Core(MVC) 
+- **Veritabanı:** MySQL  
+- **Diğer:** Git, GitHub, bcrypt, multer
+
+---
+
+### 🧠 Öğrenmeye Devam Ettiklerim
+
+- API geliştirme  
+- Modern JS (ES6+), TypeScript
+- React.js
+- UI/UX odaklı geliştirme
+
+---
+
+### 📫 Bana Ulaşın
+
+- ✉️ Mail: azrasmsk33@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/azrasimsek](https://linkedin.com/in/azrasimsek)  
+- 💻 GitHub: [github.com/azrasimsek](https://github.com/azrasimsek)
+
+---
+
+> ✨ “Küçük adımlarla, tutarlı bir şekilde kod yazmak; büyük projelerin temelidir.”
