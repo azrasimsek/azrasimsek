@@ -16,7 +16,7 @@
 
 ### 🚀 Kullandığım Teknolojiler
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, ReactJS  
 - **Backend:** Node.js, Express.js, EJS , C# , ASP .Net Core(MVC) 
 - **Veritabanı:** MySQL  
 - **Diğer:** Git, GitHub, bcrypt, multer
