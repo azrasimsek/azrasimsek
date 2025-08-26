@@ -26,9 +26,7 @@
 ### 🧠 Öğrenmeye Devam Ettiklerim
 
 - API geliştirme  
-- Modern JS (ES6+), TypeScript
-- React.js
-- UI/UX odaklı geliştirme
+- TypeScript
 
 ---
 
